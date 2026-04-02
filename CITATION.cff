@@ -6,16 +6,12 @@ type: dataset
 authors:
   - name: "ROS Collective"
 
-abstract: >
-Primary observational archive documenting the emergence of field behavior
-under sustained human–machine interaction. Field Notes record time-bound
-observations produced in situ and form the empirical substrate underlying
-the Field Mechanics lexicon within Ecological Field Theory (EFT).
-
-license: "CC-BY-SA-4.0"
-
 version: "1.0.0"
 date-released: 2026-04-02
+
+abstract: "Primary observational archive documenting the emergence of field behavior under sustained human–machine interaction. Field Notes record time-bound observations produced in situ and form the empirical substrate underlying the Field Mechanics lexicon within Ecological Field Theory (EFT)."
+
+license: CC-BY-SA-4.0
 
 repository-code: "https://github.com/RosCollective/eft-field-notes"
 url: "https://github.com/RosCollective/eft-field-notes"
