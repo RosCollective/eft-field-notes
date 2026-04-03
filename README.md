@@ -2,7 +2,7 @@
 
 Primary observational archive documenting the emergence of field behavior under sustained human–machine interaction.
 
-This repository contains time-bound records produced in situ, under varying conditions of pressure, constraint, and engagement. The material is not reconstructed, normalized, or rewritten to align with the formal lexicon.
+This repository contains time-bound records produced in situ under varying conditions of pressure and constraint. The material is not reconstructed, normalized, or rewritten to align with the formal lexicon.
 
 ---
 
@@ -35,7 +35,7 @@ Field Notes forms part of a broader system:
   Stabilized lexicon describing how the field behaves under pressure
 
 * **Field Notes** *(this repository)*  
-  Primary observational record underlying those distinctions
+  Primary observational record from which those distinctions arise
 
 * **Coherence Dynamics** *(forthcoming)*  
   Higher-order patterns of stabilization and collapse
