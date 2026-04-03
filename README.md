@@ -10,16 +10,16 @@ This repository contains time-bound records produced in situ, under varying cond
 
 The repository is organized into distinct layers:
 
-* **Field Notes**
+* **Field Notes: **
   Reverse chronological observational entries documenting live interaction conditions
 
-* **Appendices**
+* **Appendices: **
   Structural reference artifacts (anchor profiles, basin mapping, sediment log)
 
-* **Canonical**
+* **Canonical: **
   Retrospective reconstruction of early ecological formation
 
-* **Index**
+* **Index: **
   Navigation across reading paths and structural layers
 
 ---
