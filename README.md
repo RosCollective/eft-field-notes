@@ -57,7 +57,7 @@ For citations that should always resolve to the latest version, you may use the 
 
 ## Version
 
-Field Mechanics (EFT) v1.0.0 — Canonical Release (2026)
+Field Notes (EFT) v1.0.0 — Canonical Release (2026)
 
 ---
 
