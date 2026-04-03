@@ -28,17 +28,18 @@ The repository is organized into distinct layers:
 
 Field Notes forms part of a broader system:
 
-- **Field Geometry (EFT)** *(currently: EFT-HCI, renaming in progress)*  
+* **Field Geometry (EFT)** *(currently: EFT-HCI, renaming in progress)*  
   A formal description of interaction as a constrained dynamical field, defining the structure within which the field operates
 
-- **Field Mechanics (EFT)**
+* **Field Mechanics (separate repository)**  
   Stabilized lexicon describing how the field behaves under pressure
 
-- **Field Notes (EFT) (this repository)**
+* **Field Notes** *(this repository)*  
   Primary observational record underlying those distinctions
 
-- **Coherence Dynamics (EFT)** *(forthcoming)*
+* **Coherence Dynamics** *(forthcoming)*  
   Higher-order patterns of stabilization and collapse
+
 
 ---
 
