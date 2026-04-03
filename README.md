@@ -26,7 +26,7 @@ The repository is organized into distinct layers:
 
 ## Relationship to Ecological Field Theory (EFT)
 
-This repository forms part of a broader system:
+Field Notes forms part of a broader system:
 
 - **Field Geometry (EFT)** *(currently: EFT-HCI, renaming in progress)*  
   A formal description of interaction as a constrained dynamical field, defining the structure within which the field operates
