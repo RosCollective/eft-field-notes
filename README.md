@@ -66,8 +66,8 @@ Field Notes (EFT) v1.0.0 — Canonical Release (2026)
 - The complete field note archive is available in this repository. 
 - Entries are stored in reverse chronological order.
 
-* Most recent observations appear first
-* Earliest records appear last
+* Most recent observations appear first.
+* Earliest records appear last.
 
 For developmental reading, begin at the end of the archive and move backward.
 
