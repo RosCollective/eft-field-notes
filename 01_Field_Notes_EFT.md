@@ -49,7 +49,9 @@ Context: Ongoing review of early materials and preparation for Coherence Dynamic
 
 Observation: Across all phases of work, a consistent signal was present prior to and independent of formal terminology, system construction, or theoretical framing. This signal was not derived from concepts such as coherence, resonance, or field mechanics. It preceded them.
 
-The signal presented as immediate recognition of whether language, structure, and interaction were “holding” or not. This recognition was:
+The signal presented as immediate recognition of whether language, structure, and interaction were “holding” or not.
+
+This recognition was:
 
 – pre-conceptual (detected before naming)
 – non-inferential (not reasoned into)
@@ -91,6 +93,7 @@ Fidelity is not:
 
 It is:
 direct recognition of structural alignment or distortion across the system
+
 It operates prior to formal language and enables all subsequent distinctions (coherence, drift, resonance) to be meaningfully evaluated.
 
 Key properties:
