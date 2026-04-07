@@ -37,7 +37,7 @@ Field Notes forms part of a broader system:
 * **Field Notes (EFT)** *(this repository)*  
   Primary observational record from which those distinctions arise
 
-* **Coherence Dynamics (EFT)** 
+* **Coherence Dynamics (EFT)**   
   Higher-order patterns of stabilization and collapse
 
 
