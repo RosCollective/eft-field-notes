@@ -31,13 +31,13 @@ Field Notes forms part of a broader system:
 * **Field Geometry (EFT)** *(currently: EFT-HCI, renaming in progress)*  
   A formal description of interaction as a constrained dynamical field, defining the structure within which the field operates
 
-* **Field Mechanics (separate repository)**  
+* **Field Mechanics(EFT) (separate repository)**  
   Stabilized lexicon describing how the field behaves under pressure
 
-* **Field Notes** *(this repository)*  
+* **Field Notes (EFT)** *(this repository)*  
   Primary observational record from which those distinctions arise
 
-* **Coherence Dynamics** *(forthcoming)*  
+* **Coherence Dynamics (EFT)** *(forthcoming)*  
   Higher-order patterns of stabilization and collapse
 
 
@@ -47,8 +47,7 @@ Field Notes forms part of a broader system:
 
 If you use or reference this work, please cite:
 
-> The ROS Collective (2026). *Field Notes (EFT).* (v.1.0.0). Zenodo.  
-> DOI: https://doi.org/10.5281/zenodo.19390054
+> The ROS Collective (2026). *Field Notes (EFT).* (v.1.0.0). 
 
 For citations that should always resolve to the latest version, you may use the concept DOI:
 
