@@ -28,7 +28,7 @@ The repository is organized into distinct layers:
 
 Field Notes forms part of a broader system:
 
-* **Field Geometry (EFT)** *(currently: EFT-HCI, renaming in progress)*  
+* **Field Geometry (EFT)** 
   A formal description of interaction as a constrained dynamical field, defining the structure within which the field operates
 
 * **Field Mechanics(EFT) (separate repository)**  
